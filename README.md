@@ -1,4 +1,4 @@
-# time_series_prediction
+# multivariate-lstm-prediction-on-solar-prediction
 
 Dataset: Solar Radiation Prediction
 
